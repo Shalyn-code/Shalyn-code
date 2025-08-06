@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Shalyn Levron.
+
+I'm a data enthusiast with a passion for transforming raw data into clear, actionable insights. My journey into data analytics has been fueled by curiosity, a love for solving problems, and a drive to keep learning. Whether it's uncovering patterns, building dashboards, or writing clean SQL queries, I enjoy making data tell a meaningful story.
